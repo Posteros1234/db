@@ -3,8 +3,8 @@
   "SubjectNo":"4"
   "Subjects":["Science","Maths","English","Computer Science"]
   "HomeworkNo":"2"
-  "Homework1":["Lab Report", "UploadFile","12/12/22"]
-  "Homework2":["Lab Report 2", "UploadFile","12/12/22"]
+  "Homework1":["Put A Name Here", "UploadFile","Put A Description Here", "12/12/22", "12/12/22"]
+  "Homework2":["Put A Name Here 2", "UploadFile", "Put A Description Here","12/12/22", "12/12/22"]
   "Exam":"No"
   "ExamQno":"0"
 }
